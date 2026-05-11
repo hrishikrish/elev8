@@ -37,7 +37,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute -inset-4 bg-secondary/50 rounded-3xl blur-2xl" />
               <img
-                src="https://media.db.com/images/public/6a012c97f78032152b61be02/2b311b39c_generated_a1884047.png"
+                src="/images/hero.jpg"
                 alt="English teacher Hrishi in a modern teaching setup"
                 className="relative w-full rounded-2xl object-cover aspect-[4/3] shadow-lg"
               />

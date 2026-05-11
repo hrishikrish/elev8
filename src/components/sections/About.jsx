@@ -21,7 +21,7 @@ export default function About() {
             <div className="relative">
               <div className="absolute -inset-3 bg-accent/40 rounded-3xl blur-xl" />
               <img
-                src="https://media.db.com/images/public/6a012c97f78032152b61be02/bae0812bc_generated_4e268174.png"
+                src="/images/about.jpg"
                 alt="Language learning materials"
                 className="relative w-full rounded-2xl object-cover aspect-[3/2]"
               />
